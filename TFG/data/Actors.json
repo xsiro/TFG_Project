@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"DON","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"DON","traits":[{"code":43,"dataId":2,"value":1},{"code":43,"dataId":1,"value":1},{"code":43,"dataId":5,"value":1}],"initialLevel":50,"maxLevel":50,"name":"Furio","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"tank","characterIndex":5,"characterName":"!Flame","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"tank","traits":[{"code":43,"dataId":7,"value":1},{"code":43,"dataId":1,"value":1}],"initialLevel":50,"maxLevel":99,"name":"tank","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"mago","characterIndex":5,"characterName":"People4","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"mago","traits":[{"code":43,"dataId":2,"value":1},{"code":43,"dataId":4,"value":1}],"initialLevel":50,"maxLevel":99,"name":"mage","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"killer","characterIndex":2,"characterName":"Nature","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"killer","traits":[{"code":43,"dataId":3,"value":1},{"code":43,"dataId":6,"value":1}],"initialLevel":50,"maxLevel":99,"name":"killer","nickname":"","note":"","profile":""}
+]
